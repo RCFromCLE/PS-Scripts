@@ -1,0 +1,2 @@
+﻿FileLocation,FileLocationLogs,EmailUsers,StageEnv
+#{FileLocation}#,#{FileLocationLogs}#,#{EmailUsers}#,#{Enviroment}#

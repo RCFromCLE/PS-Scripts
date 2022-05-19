@@ -1,0 +1,2 @@
+This file is a place holder for PSTWaitList. 
+DownloadPST needs this folder location to have a query list. 
